@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Mike Kim.
-- 👀 I’m interested in ... 
-- 🌱 I’m currently using ... js,html,css,react Js, node Js, mongodb
-- 📫 How to reach me ...
+Hello, I`m Mike,
+
+Front End Developer based in Melbourne with experience and passion for responsive websites to deliverer exceptional user experiences. Proficient in JavaScript, TypeScript, HTML/CSS, modern libraries and frameworks. Passionate about aesthetics and usability.
+
+Portfolio website:
+https://next-portfolio-one-cyan.vercel.app/
